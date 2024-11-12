@@ -129,7 +129,7 @@ La capa ráster de coberturas es el mapa global titulado "Land Cover 100m: versi
 
 Estos son los pasos clave que debes dar para realizar un muestreo estratificado:
 
-1.  Elige y descarga, desde [esta ruta](fuentes/), una capa vectorial. Identifícala en función del número de estudiante que hayas elegido (nota que los nombres de archivo siguen el patrón `estudiante-##.kml`, donde `##` son dígitos identificadores). Elige un archivo, no olvides anunciarlo en el foro, y recuerda que `estudiante-01.kml` es del Tali.
+1.  Elige y descarga, desde [esta ruta](https://github.com/biogeografia-master/intro-qgis-diseno-muestreo-espacial/tree/main/fuentes), una capa vectorial. Identifícala en función del número de estudiante que hayas elegido (nota que los nombres de archivo siguen el patrón `estudiante-##.kml`, donde `##` son dígitos identificadores). Elige un archivo, no olvides anunciarlo en el foro, y recuerda que `estudiante-01.kml` es del Tali.
 
 2. Carga tu capa vectorial elegida en QGIS.
 
