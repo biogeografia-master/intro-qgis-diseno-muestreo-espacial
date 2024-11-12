@@ -1,0 +1,1 @@
+# intro-qgis-diseno-muestreo-espacial
